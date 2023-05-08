@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nekkess
+- 👋 Hi, I’m @nekkess (Franciszek Kessler)
 - 👀 I’m interested in Philosophy, Technology & Pidgeons
 - 🌱 I’m currently learning Machine Learning & improving my Python skills
 - 📫 You can HMU on my email franciszekessler@gmail.com
