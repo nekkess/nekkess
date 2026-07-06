@@ -1,4 +1,5 @@
 -no
+-https://www.linkedin.com/in/franciszek-kessler/
 
 <!---
 nekkess/nekkess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
